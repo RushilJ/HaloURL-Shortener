@@ -1,2 +1,2 @@
 # HaloURL-Shortener
-This is a URL shortener GUI application made with Python.
+This is a URL shortener GUI application made with Python using Tkinter.
